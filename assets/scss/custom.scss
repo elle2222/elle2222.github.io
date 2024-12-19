@@ -1,6 +1,10 @@
-.article-container {
-    max-width: 1000px;
-    padding: 0 20px 0 20px;
-    margin: 0 auto 0 auto;
-    font-size: 20px;
-  }
+.container {
+  margin: 0 auto;
+  // Adjusting the max-width to increase page width. 
+  // The original file path - `/<website-root>/themes/<theme-name>/assets/scss/..`
+  // max-width: 90rem;
+  max-width: 100rem;
+  width: 100%;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
