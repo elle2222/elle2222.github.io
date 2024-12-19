@@ -143,9 +143,9 @@ skills:
 
 languages:
   - name: English (Fluent)
-    percent: 100
+    #percent: 
   - name: Chinese (Native)
-    percent: 75
+    #percent: 75
   # - name: Portuguese
   #   percent: 25
 
