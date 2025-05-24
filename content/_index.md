@@ -52,7 +52,7 @@ sections:
           - wp
         exclude_featured: false
     design:
-      view: list
+      view: citation
   # - block: collection
   #   id: papers
   #   content:
