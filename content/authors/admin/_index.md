@@ -47,6 +47,7 @@ profiles:
   #  url: https://orcid.org/
 
 interests:
+  - Financial Economics
   - Development Economics
 
 education:
@@ -183,5 +184,7 @@ awards:
 ---
 
 ## About Me
-To Come
+Welcome!
+
+I am a PhD student in Economics at Harvard University. My research interests lie in financial economics, development economics, and contract theory. I use deep learning, structural methods, and quantitative models in my work. I am also affiliated with the [Center for International Development](https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/xinmei-yang).
 
