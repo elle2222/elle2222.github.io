@@ -49,6 +49,7 @@ profiles:
 interests:
   - Financial Economics
   - Development Economics
+  - Contract Theory
 
 education:
   - area: PhD Candidate in Economics 
