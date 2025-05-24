@@ -3,7 +3,7 @@ title: Working Papers
 cms_exclude: true
 
 # View.
-view: citation
+view: list
 
 # Optional header image (relative to `static/media/` folder).
 banner:
