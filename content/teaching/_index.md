@@ -1,25 +1,21 @@
 ---
-title: "Teaching"
-summary: "My courses"
-type: landing
-
+title:    "Teaching"
+summary:  "My courses"
+type:     landing
+layout:   landing            # make sure you have a layouts/landing.html or single.html for this type
+menu:
+  main:
+    name:   "Teaching"
+    url:    "/teaching/"
+    weight: 20
 cascade:
   _target:
     kind: page
   params:
     show_breadcrumb: true
-
-sections:
-  - block: collection
-    id: teaching
-    content:
-      title: "My Courses"
-      items:
-        - title: "Econ 50 – (Undergrad)"
-          text:  "Personal Finance F2025, TA for John Campbell"
-        - title: "Econ 1126 – (Undergrad)"
-          text:  "Advanced Econometrics S2026, TA for Davide Viviano"
-    design:
-      view: list        # ← simple bullet list; switch to article-grid for cards
-      columns: 2
 ---
+
+## My Courses
+
+- **Econ 50** (Undergrad) Personal Finance F2025, TA for John Campbell  
+- **Econ 1126** (Undergrad) Advanced Econometrics S2026, TA for Davide Viviano
