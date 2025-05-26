@@ -10,13 +10,16 @@ cascade:
     show_breadcrumb: true
 
 sections:
-  - block: text
-    id: teaching-list
+  - block: collection
+    id: teaching
     content:
       title: "My Courses"
-      body: |
-        - **Econ 50** (Undergrad) Personal Finance F2025, TA for John Campbell  
-        - **Econ 1126** (Undergrad) Advanced Econometrics S2026, TA for Davide Viviano
+      items:
+        - title: "Econ 50 – (Undergrad)"
+          text:  "Personal Finance F2025, TA for John Campbell"
+        - title: "Econ 1126 – (Undergrad)"
+          text:  "Advanced Econometrics S2026, TA for Davide Viviano"
     design:
-      view: list
+      view: list        # ← simple bullet list; switch to article-grid for cards
+      columns: 2
 ---
