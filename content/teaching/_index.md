@@ -22,6 +22,6 @@ sections:
       columns: 1
 ---
 
-Econ 50 – (Undergrad) Personal Finance F2025, TA for John Campbell
+Econ 70 – (Undergrad) Personal Finance F2025, TA for John Campbell
 
 Econ 1126 – (Undergrad) Advanced Econometrics S2026, TA for Davide Viviano
