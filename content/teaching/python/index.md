@@ -6,4 +6,5 @@ type: docs
 math: false
 tags:
 ---
-<!-- [Hugo Blox Builder](https://hugoblox.com) -->
+Course Website: https://qrd.college.harvard.edu/directory/econ-1126-quantitative-methods-in-economics/
+
