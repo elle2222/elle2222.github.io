@@ -1,11 +1,11 @@
 ---
-title: "Linking Representations with Multimodal Contrastive Learning"
+title: Linking Representations with Multimodal Contrastive Learning
 authors:
   - Abhishek Arora
   - Xinmei Yang
   - Shao-Yu Jheng
   - Melissa Dell
-date: "2024-06-21"
+date: 2024-06-21
 publication_types:
   - working-paper
 draft: true
@@ -33,8 +33,8 @@ abstract: |
   century Japanese firms across financial documents.
 
 links:
-  - name: "ArXiv PDF"
-    url: "https://arxiv.org/pdf/2304.03464.pdf"
-  - name: "ArXiv abstract"
-    url: "https://arxiv.org/abs/2304.03464"
+  - name: ArXiv PDF
+    url: https://arxiv.org/pdf/2304.03464.pdf
+  - name: ArXiv abstract
+    url: https://arxiv.org/abs/2304.03464
 ---
