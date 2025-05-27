@@ -1,11 +1,9 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: Econ 1126 - Advanced Econometrics
+summary: Undergrad, TA for Davide Viviano 
+date: 2023-01-20
 type: docs
 math: false
 tags:
-  - Python
 ---
-
 [Hugo Blox Builder](https://hugoblox.com)
