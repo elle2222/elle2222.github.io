@@ -1,9 +1,9 @@
 ---
-title: Working Papers
+title: Publications
 cms_exclude: true
 
 # View.
-view: list
+view: citation
 
 # Optional header image (relative to `static/media/` folder).
 banner:
