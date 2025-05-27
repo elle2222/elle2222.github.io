@@ -6,4 +6,4 @@ type: docs
 math: false
 tags:
 ---
-[Hugo Blox Builder](https://hugoblox.com)
+<!-- [Hugo Blox Builder](https://hugoblox.com) -->
