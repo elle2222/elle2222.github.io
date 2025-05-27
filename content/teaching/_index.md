@@ -21,7 +21,3 @@ sections:
       view: article-grid
       columns: 1
 ---
-
-Econ 70 – (Undergrad) Personal Finance F2025, TA for John Campbell
-
-Econ 1126 – (Undergrad) Advanced Econometrics S2026, TA for Davide Viviano
