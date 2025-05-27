@@ -1,7 +1,7 @@
 ---
 title: Econ 70 - Personal Finance
 summary: Undergrad, TA for John Campbell 
-date: Fall 2025
+date: 2023-08-25
 type: docs
 math: false
 tags:
