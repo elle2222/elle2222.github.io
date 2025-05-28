@@ -8,8 +8,7 @@ authors:
 date: '2024-06-21'
 publication_types:
 - Preprint/Working Paper
-abstract: Many applications require linking individuals, firms, or locations across datasets.
-  Most widely used methods, especially in social science, do not employ deep learning,
+abstract: Many applications require linking individuals, firms, or locations across datasets. Most widely used methods, especially in social science, do not employ deep learning,
   with record linkage commonly approached using string matching techniques. Moreover,
   existing methods do not exploit the inherently multimodal nature of documents. In
   historical record linkage applications, documents are typically noisily transcribed by
