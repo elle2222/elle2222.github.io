@@ -7,7 +7,7 @@ authors:
   - Melissa Dell
 date: "2024-06-21"
 publication_types:
-  - working-paper
+  - 3
 draft: true
 abstract: |
   Many applications require linking individuals, firms, or locations across datasets.
