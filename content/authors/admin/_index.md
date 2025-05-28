@@ -45,7 +45,7 @@ profiles:
     url: https://scholar.google.com/citations?user=Kb_XsqgAAAAJ&hl=en
   #- icon: academicons/orcid
   #  url: https://orcid.org/
-  
+
 interests:
   - Financial Economics
   - Development Economics
