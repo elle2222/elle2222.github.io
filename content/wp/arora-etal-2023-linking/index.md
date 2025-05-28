@@ -7,8 +7,7 @@ authors:
   - Melissa Dell
 date: "2024-06-21"
 publication_types:
-  - 3
-draft: true
+  - Working Paper
 abstract: |
   Many applications require linking individuals, firms, or locations across datasets.
   Most widely used methods, especially in social science, do not employ deep learning,
